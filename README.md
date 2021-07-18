@@ -19,11 +19,11 @@
 ![image](https://user-images.githubusercontent.com/81569638/121192141-d474b500-c896-11eb-8fe1-702328a720e8.png)
 ![image](https://user-images.githubusercontent.com/81569638/121192187-dfc7e080-c896-11eb-94f3-d39c5c92ca2c.png)
 
-## 5.index.php lab9
+## 5.index
 ![image](https://user-images.githubusercontent.com/81569638/121192401-1c93d780-c897-11eb-93f6-48e8a6d8424f.png)
 
-## 6. tambah.php lab9
+## 6. tambah
 ![image](https://user-images.githubusercontent.com/81569638/121192464-2ddce400-c897-11eb-8985-667108cac8aa.png)
 
-## 7. ubah.php lab9
+## 7. ubah
 ![image](https://user-images.githubusercontent.com/81569638/121192599-4d740c80-c897-11eb-8c6c-8b9eb8a1df65.png)
